@@ -8,7 +8,8 @@
 
 ## Monorepo for Composable Finance
 
-[![Latest Release](https://img.shields.io/github/v/tag/composablefi/composable)][latest-url]
+[![Latest Release](https://img.shields.io/github/v/tag/composablefi/composable)][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKaiserKarel%2Fcomposable.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKaiserKarel%2Fcomposable?ref=badge_shield)
+[latest-url]
 ![Build][build-badge]
 [![Mergify Status][mergify-status]][mergify]
 [![Discord][discord-badge]][discord-url]
@@ -38,3 +39,7 @@ Refer [RFC-0011](./rfcs/0011-releases.md).
 
 We use [`nix`](https://nixos.org/) in order to reproducibly build all of our packages. [Check out our Nix docs here in order to build our packages](https://docs.composable.finance/nix.html).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKaiserKarel%2Fcomposable.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKaiserKarel%2Fcomposable?ref=badge_large)
